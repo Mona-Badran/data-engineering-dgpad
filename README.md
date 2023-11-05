@@ -28,3 +28,10 @@ The News website holds a main sitemap, listing child sitemaps by month, Al-Mayad
 This is a JSON Lines file holding 100 samples of the news scraped from the child sitemaps
 ### .env / .envexample
 This file holds the environment variable for the MongoDB connection for security reasons, copy the .envexample and rename it to .env, then add the connection string
+
+## Screenshots
+
+![Dashboard](https://imgur.com/wDfDbQl)
+![Wordcloud of Top Keywords in News Articles](https://imgur.com/NJA3ceS)
+![Line Chart of Number of Articles Published Per Month](https://imgur.com/vfJG3HQ)
+![Pie Chart of Articles With Image Attachment VS. Articles Without Image Attachment](https://imgur.com/H5yna8w)
