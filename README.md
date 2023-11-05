@@ -35,3 +35,5 @@ This file holds the environment variable for the MongoDB connection for security
 ![Wordcloud of Top Keywords in News Articles](https://imgur.com/NJA3ceS.png)
 ![Line Chart of Number of Articles Published Per Month](https://imgur.com/vfJG3HQ.png)
 ![Pie Chart of Articles With Image Attachment VS. Articles Without Image Attachment](https://imgur.com/H5yna8w.png)
+
+## ▶️[YouTube Video](https://www.youtube.com/watch?v=1sF_0bWMq9w)
